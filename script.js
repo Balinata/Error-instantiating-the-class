@@ -11,3 +11,4 @@ class Animal {
     }
   }
   let rabbit = new Rabbit("White Rabbit");
+  alert(rabbit.name);
