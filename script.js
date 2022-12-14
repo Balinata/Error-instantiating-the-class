@@ -10,3 +10,4 @@ class Animal {
       this.created = Date.now();
     }
   }
+  let rabbit = new Rabbit("White Rabbit");
